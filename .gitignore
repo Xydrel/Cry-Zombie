@@ -41,7 +41,7 @@ USER/
 Editor/UI/
 Editor/
 comm/comm.txt
-Code/Solutions/
+Code/Solutions/*
 
 # Config files
 editor.cfg
